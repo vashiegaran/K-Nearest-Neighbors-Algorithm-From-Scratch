@@ -15,6 +15,9 @@ The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervise
 ![2](Image/2.png)
     
  * By calculating the Minkowski distance we got the nearest neighbors, as three nearest neighbors in category A and two nearest neighbors in category B.
+
+![2](Image/3.jpg)
+
  
  * There is no particular way to determine the best value for "K", so we need to try some values to find the best out of them. The most preferred value for K is 5.
 
