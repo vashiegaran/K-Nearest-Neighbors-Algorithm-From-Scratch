@@ -2,7 +2,7 @@
 
 # 1. Introduction
 
-The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems.
+The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems. I have used Iris dataset to predict the class of test data points given a training dataset.
 
 # 2. Objective
 Its purpose is to use a database in which the data points are separated into several classes to predict the classification of a new sample point.
@@ -27,7 +27,7 @@ Its purpose is to use a database in which the data points are separated into sev
 
  * Hence the New Data Point is assigned to Category A because 3 out of the 5 nearest neighbors are labeled as Category A. 
 
- * The kNN algorithm assign the New Data Point to the majority label of k neighbors. 
+ * The kNN algorithm assign the New Data Point to the majority label of k neighbors.
 
 # 4. Advantage
  * Quick calculation time
@@ -40,5 +40,6 @@ Its purpose is to use a database in which the data points are separated into sev
  * Sensitive to the scale of the data and irrelevant features
  * Given that it stores all of the training, it can be computationally expensive 
 
+Do Check out my implementation of kNN Algorithm from scatch using python
 
 
