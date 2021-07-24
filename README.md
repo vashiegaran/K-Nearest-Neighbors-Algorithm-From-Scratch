@@ -7,12 +7,12 @@ The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervise
 # 2. kNN Algorithm
   
    
-![1](Image/1.png)
+![1](Image/pic.jpg)
 
  * Based on the figure above, the distance between the new data and each data point will be measured and sorted ascending order.
     The Minkowski distance formula used to calculate the distance is :
      
-![2](Image/pic.png)
+![2](Image/1.png)
     
  * By calculating the Minkowski distance we got the nearest neighbors, as three nearest neighbors in category A and two nearest neighbors in category B.
  
